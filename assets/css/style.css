@@ -1,3 +1,6 @@
+body{
+    font-family: 'Karla', sans-serif;
+}
 p{
     font-family: 'Karla', sans-serif;
 }
@@ -6,4 +9,8 @@ h1{
 }
 h2{
     font-family: 'Karla', sans-serif;
+}
+form{
+    width: 960px;
+    margin: auto;
 }
